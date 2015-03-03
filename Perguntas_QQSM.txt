@@ -1,0 +1,183 @@
+﻿2
+P:Qual o nome do primeiro album dos chutos e pontapés?
+A:78/82
+B:Circo de feras
+C:Ao vivo nos "Alunos de Apolo"
+D:Circo de feras
+R:A
+
+1
+P:Qual a 3ª pessoa do plural do pretérito perfeito do verbo por?
+A:poseram
+B:pozeram
+C:puseram
+D:puserão
+R:C
+
+3
+P:O que se celebra no dia 2 de Abril?
+A:Dia internacional do livro
+B:Dia internacional do livro infantil
+C:Dia internacional do Animal
+D:Dia internacional da Crianca
+R:B
+
+2
+P:Quanto é 1250 X 723?
+A:907305
+B:907350
+C:903750
+D:907355
+R:C
+
+3
+P:Quem realizou o filme "Tubarão II"?
+A:Jeannot Szwarc
+B:Oliver Stone
+C:Steven Spielberg
+D:Stephen King
+R:A
+
+3
+P:Em que ano foi tomada Constantinopla e o império Bizantino, pelo império Otomano?
+A:1823
+B:1923
+C:1423
+D:1623
+R:C
+
+2
+P:A dentição humana, em adulto, é composta por?
+A:32 dentes
+B:45 dentes
+C:24 dentes
+D:48 dentes
+R:A
+
+1
+P:Em que batalha desapareceu o El-Rei D.Sebastião?
+A:Aljubarrota
+B:Trafalgar
+C:Alcacer Quibir
+D:Arzila
+R:C
+
+1
+P:O papa portugues foi:
+A:S. João de Brito
+B:Inicêncio III
+C:João XXI
+D:S.Francisco Xavier
+R:C
+
+1
+P:A capital da Holanda é:
+A:Munique
+B:Antuerpia
+C:Amesterdão
+D:Budapeste
+R:C
+
+1
+P:Em que ano ocorreu o terramoto de Lisboa?
+A:1802
+B:1792
+C:1775
+D:1755
+R:D
+
+1
+P:O sol, em relação à Terra esta a uma distância de
+A:250 milhões de km
+B:100 milhões de km
+C:150 milhões de km
+D:147 milhões de km
+R:D
+
+2
+P:Complete o seguinte provérbio: Quem o alheio veste, na praça
+A:o despe
+B:o veste
+C:o estraga
+D:o rompe
+R:A
+
+2
+P:Qual o maior rio Português?
+A:O Sado
+B:O Mondego
+C:O Guadiana
+D:O Tejo
+R:B
+
+2
+P:Em que ano se deu a 1ª invasão Francesa em Portugal?
+A:1807
+B:1640
+C:1380
+D:1910
+R:A
+
+3
+P:Em que data foi abolida a escravatura nos Estados Unidos da América?
+A:2 de Dezembro de 1728
+B:5 de Março de 1903
+C:5 de Janeiro de 1526
+D:6 de Dezembro de 1865
+R:D
+
+3
+P:Aonde fica situado o tribunal internacional de Haia?
+A:Na Belgica
+B:Em França
+C:Na Holanda
+D:Na Suica
+R:C
+
+1
+P:Qual a capital de Espanha?
+A:Barcelona
+B:Sevilla
+C:Lisboa
+D:Madrid
+R:D
+
+1
+P:Complete o provérbio: "Cão que ladra..."
+A:não dorme
+B:não come
+C:não morde
+D:não corre
+R:C
+
+1
+P:A célebre frase "Penso, logo existo," foi pronunciada por
+A:Homero
+B:Galilei Galileu
+C:Aristóteles
+D:René Decartes
+R:D
+
+3
+P:Joaquim Guilherme Gomes Coelho, era o verdadeiro nome do escritor...
+A:António Aleixo
+B:Alexandre Herculano
+C:Júlio Dinis
+D:Miguel Torga
+R:C
+
+2
+P:O mosteiro da Batalha foi mandado dirigir por...
+A:D.Dinis
+B:D.Joao I
+C:D.Maria Pia
+D:Marques de Pombal
+R:B
+
+1
+P:Qual é a capital da Turquia?
+A:Ankara
+B:Antuérpia
+C:Vaduz
+D:Budapeste
+R:A

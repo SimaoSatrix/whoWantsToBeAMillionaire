@@ -1,0 +1,72 @@
+﻿1
+P:Marlene e gira?
+A:sim e gira
+B:nao e gira
+C:muito gira
+D:linda
+R:D
+
+2
+P:Simao e lindo?
+A:sim
+B:nao
+C:talvez
+D:porq
+R:nao
+
+2
+P:Simao e giro?
+A:sim
+B:nao
+C:talvez
+D:porque
+R:nao
+
+2
+P:simao e giro?
+A:sim
+B:nao e
+C:talvez
+D:e muito lindo
+R:D
+
+1
+P:A marlene e linda?
+A:sima
+B:nao sei
+C:talvez
+D:o simao diz q e
+R:D
+
+1
+P:marlene e linda
+A:sofia barroso
+B:marlene linda
+C:queres
+D:qwfsd
+R:C
+
+1
+P:dgdsg dh jddgjfd?
+A:dgdfgs
+B:jtyjyt
+C:srth
+D:uilui
+R:A
+
+1
+P:saf
+A:sfsdf
+B:sdfsd
+C:sdfsd
+D:sfdsf
+R:A
+
+2
+P:dsfdsf
+A:sdfsd
+B:sdsdf
+C:sdfsd
+D:sdfsd
+R:A
+
